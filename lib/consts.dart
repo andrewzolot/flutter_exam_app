@@ -1,0 +1,2 @@
+const int BOTOM_NAV_INDEX_USERS = 0;
+const int BOTOM_NAV_INDEX_DETAILS = 1;
